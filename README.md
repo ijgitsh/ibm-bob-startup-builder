@@ -10,7 +10,7 @@
 
 2. **Add the Mode**
    - Click "Add Custom Mode"
-   - Download the file: `https://github.com/ijgitsh/ibm-bob-startup-builder/blob/main/startup-builder-mode.yaml`
+   - Download the file: https://github.com/ijgitsh/ibm-bob-startup-builder/blob/main/startup-builder-mode.yaml
    - Select the file: `startup-builder-mode.yaml`
    - Bob will automatically load the mode
 
